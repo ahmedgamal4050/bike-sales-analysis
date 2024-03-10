@@ -23,10 +23,12 @@
 ## Results 
 ### the analysis results are summarized  as
 ### Women whose average yearly income is equal  62857 prefer to buy bicycles
-### Men whose average monthly income is equal 67857  prefer to buy bicycles 
+### Men whose average yearly income is equal 67857  prefer to buy bicycles 
+###  some of student and graduate d prefer to buy bicycles 
+### The percentage of single customers interested in buying bicycles is higher than the percentage of married customers
 
 
-## recommendations
+صث 
 
 
 
