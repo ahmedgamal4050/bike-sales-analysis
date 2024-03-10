@@ -28,7 +28,7 @@
 ### The percentage of single customers interested in buying bicycles is higher than the percentage of married customers
 
 
-صث 
+ 
 
 
 
