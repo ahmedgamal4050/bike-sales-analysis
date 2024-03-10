@@ -17,9 +17,12 @@
 ### What groups are interested in buying bicycles?
 ### What is the average age of people interested in buying bicycles?
 ### What is the average income  of people interested in buying bicycles?
+### what is marital status ? 
+### what is the  Educational Qualification ?
 
 ## Results 
 ### the analysis results are summarized  as
+### 
 
 
 ## recommendations
