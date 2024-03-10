@@ -3,8 +3,8 @@
  ### this project aims to help company to know our client and know more information about them to make companys mange sales's volum
  ## Tools
 ### Excel -Power query to clean Data ,
- ### Power paivote to handel relations bettwen table,
- ### paivot table to analyzing data,
+ ### Power pivot to handel relations bettwen table,
+ ### pivot table to analyzing data,
  ### charts to generate dashboard
  
 ## Data Cleaning/prepartion
